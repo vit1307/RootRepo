@@ -1,3 +1,6 @@
 [submodule "Libraries"]
 	path = Libraries
 	url = https://github.com/vit1307/Libraries.git
+[submodule "Apps"]
+	path = Apps
+	url = https://github.com/vit1307/Apps.git
